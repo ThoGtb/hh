@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="" method="post">
-        <h1>Delete product</h1>
+        <h1>Deleteproduct</h1>
     </form>
 </body>
 </html>
